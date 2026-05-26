@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Bottle body -->
+  <rect x="18" y="28" width="28" height="28" rx="6" fill="#C9A84C"/>
+  <!-- Bottle shoulder -->
+  <path d="M22 28 Q20 22 24 20 L40 20 Q44 22 42 28Z" fill="#B8973E"/>
+  <!-- Bottle neck -->
+  <rect x="26" y="14" width="12" height="8" rx="2" fill="#D4AF60"/>
+  <!-- Bottle cap -->
+  <rect x="24" y="10" width="16" height="6" rx="3" fill="#8B6914"/>
+  <!-- Spray nozzle -->
+  <rect x="37" y="12" width="8" height="3" rx="1.5" fill="#8B6914"/>
+  <circle cx="46" cy="13.5" r="2" fill="#6B4F0E"/>
+  <!-- Shine on bottle -->
+  <rect x="22" y="32" width="4" height="14" rx="2" fill="#E8C870" opacity="0.5"/>
+  <!-- Label area -->
+  <rect x="20" y="34" width="24" height="16" rx="3" fill="#F5E6B0" opacity="0.25"/>
+  <!-- Sparkles -->
+  <path d="M10 18 L11 15 L12 18 L15 19 L12 20 L11 23 L10 20 L7 19Z" fill="#C9A84C" opacity="0.8"/>
+  <path d="M52 30 L53 28 L54 30 L56 31 L54 32 L53 34 L52 32 L50 31Z" fill="#C9A84C" opacity="0.6"/>
+</svg>

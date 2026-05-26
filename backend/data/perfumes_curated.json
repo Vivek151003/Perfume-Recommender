@@ -1,0 +1,3731 @@
+[
+  {
+    "id": "p001",
+    "name": "Chanel No. 5",
+    "brand": "Chanel",
+    "family": "Floral Aldehyde",
+    "gender": "feminine",
+    "top_notes": [
+      "Aldehydes",
+      "Ylang-ylang",
+      "Neroli",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Iris",
+      "Jasmine",
+      "Rose",
+      "Lily of the Valley"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Vetiver",
+      "Civet",
+      "Musk"
+    ],
+    "occasions": [
+      "formal",
+      "evening",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "luxury",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "An iconic floral aldehyde fragrance, timeless and elegant. A symphony of rose and jasmine atop a warm woody musk base. The quintessential feminine fragrance that defined modern perfumery.",
+    "mood": [
+      "sophisticated",
+      "classic",
+      "elegant",
+      "feminine"
+    ],
+    "intensity": "strong",
+    "year": 1921,
+    "price_usd": 140,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p002",
+    "name": "Sauvage",
+    "brand": "Dior",
+    "family": "Fresh Spicy",
+    "gender": "masculine",
+    "top_notes": [
+      "Calabrian Bergamot",
+      "Pepper"
+    ],
+    "middle_notes": [
+      "Sichuan Pepper",
+      "Lavender",
+      "Pink Pepper",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Ambroxan",
+      "Cedar",
+      "Labdanum"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Raw and noble, a wild and fresh composition. Bergamot from Calabria bursts open with a peppery spice that gives way to a dry woody base with ambroxan. The scent of raw freedom.",
+    "mood": [
+      "fresh",
+      "bold",
+      "masculine",
+      "adventurous"
+    ],
+    "intensity": "strong",
+    "year": 2015,
+    "price_usd": 115,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p003",
+    "name": "Black Orchid",
+    "brand": "Tom Ford",
+    "family": "Floral Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Black Truffle",
+      "Bergamot",
+      "Black Currant",
+      "Ylang-ylang"
+    ],
+    "middle_notes": [
+      "Black Orchid",
+      "Orchid",
+      "Spicy Notes",
+      "Gardenia",
+      "Lotus Wood"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Vetiver",
+      "Sandalwood",
+      "Dark Chocolate",
+      "Incense"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "luxury",
+    "longevity": "excellent",
+    "sillage": "very heavy",
+    "description": "A luxurious and sensual fragrance of rich, dark accords and an alluring potion of black orchids. Dark, deep, and hypnotic with notes of chocolate, patchouli, and mysterious black orchid.",
+    "mood": [
+      "dark",
+      "sensual",
+      "mysterious",
+      "luxurious"
+    ],
+    "intensity": "very strong",
+    "year": 2006,
+    "price_usd": 175,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p004",
+    "name": "Aventus",
+    "brand": "Creed",
+    "family": "Fruity Chypre",
+    "gender": "masculine",
+    "top_notes": [
+      "Pineapple",
+      "Bergamot",
+      "Black Currant",
+      "Apple"
+    ],
+    "middle_notes": [
+      "Birch",
+      "Patchouli",
+      "Rose",
+      "Jasmine",
+      "Moroccan Jasmine"
+    ],
+    "base_notes": [
+      "Musk",
+      "Oak Moss",
+      "Ambergris",
+      "Vetiver"
+    ],
+    "occasions": [
+      "office",
+      "formal",
+      "casual"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Inspired by the life of Napoleon Bonaparte, Aventus celebrates strength, power, and success. Opens with fruity pineapple and bergamot that transitions to smoky birch over a musky base.",
+    "mood": [
+      "confident",
+      "powerful",
+      "successful",
+      "sophisticated"
+    ],
+    "intensity": "strong",
+    "year": 2010,
+    "price_usd": 395,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p005",
+    "name": "Angel",
+    "brand": "Mugler",
+    "family": "Oriental Gourmand",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot",
+      "Melon",
+      "Coconut",
+      "Cotton Candy"
+    ],
+    "middle_notes": [
+      "Red Berries",
+      "Plum",
+      "Orchid"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Vanilla",
+      "Dark Chocolate",
+      "Caramel",
+      "Honey",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "very heavy",
+    "description": "A revolutionary gourmand oriental that changed perfumery forever. Sweet, edible, and celestial — a heavenly clash of patchouli and sweet caramel chocolate that is deeply addictive.",
+    "mood": [
+      "playful",
+      "sweet",
+      "seductive",
+      "bold"
+    ],
+    "intensity": "very strong",
+    "year": 1992,
+    "price_usd": 85,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p006",
+    "name": "Peony & Blush Suede",
+    "brand": "Jo Malone London",
+    "family": "Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Red Apple"
+    ],
+    "middle_notes": [
+      "Peony",
+      "Rose",
+      "Carnation"
+    ],
+    "base_notes": [
+      "Suede",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "high",
+    "longevity": "moderate",
+    "sillage": "moderate",
+    "description": "Voluptuous and bold — the exquisite peony is combined with the youthful flush of red apple and a soft, powdery suede. Light, airy, and beautifully feminine. Perfect for warm days.",
+    "mood": [
+      "romantic",
+      "fresh",
+      "feminine",
+      "youthful"
+    ],
+    "intensity": "moderate",
+    "year": 2013,
+    "price_usd": 185,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p007",
+    "name": "Replica Jazz Club",
+    "brand": "Maison Margiela",
+    "family": "Aromatic Spicy",
+    "gender": "unisex",
+    "top_notes": [
+      "Pink Pepper",
+      "Neroli",
+      "Lemon"
+    ],
+    "middle_notes": [
+      "Rum",
+      "Clary Sage",
+      "Musk"
+    ],
+    "base_notes": [
+      "Tobacco",
+      "Vetiver",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The scent of a jazz club late at night — warm tobacco, spiced rum, and musk. Evocative and cozy with a smooth woody base. Like the memory of smoky music and dimly lit bars.",
+    "mood": [
+      "nostalgic",
+      "warm",
+      "sophisticated",
+      "cozy"
+    ],
+    "intensity": "moderate",
+    "year": 2012,
+    "price_usd": 175,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p008",
+    "name": "Terre d'Hermès",
+    "brand": "Hermès",
+    "family": "Woody Earthy",
+    "gender": "masculine",
+    "top_notes": [
+      "Grapefruit",
+      "Orange"
+    ],
+    "middle_notes": [
+      "Pepper",
+      "Pelargonium",
+      "Flint"
+    ],
+    "base_notes": [
+      "Vetiver",
+      "Cedar",
+      "Benzoin",
+      "Patchouli"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "A journey through materials — citrus-mineral freshness gives way to a deep earthy core. Raw, natural, and elemental. The smell of the earth after rain, combined with warm woody spice.",
+    "mood": [
+      "grounded",
+      "natural",
+      "refined",
+      "earthy"
+    ],
+    "intensity": "moderate",
+    "year": 2006,
+    "price_usd": 160,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p009",
+    "name": "Black Opium",
+    "brand": "Yves Saint Laurent",
+    "family": "Oriental Vanilla",
+    "gender": "feminine",
+    "top_notes": [
+      "Pink Pepper",
+      "Orange Blossom",
+      "Pear"
+    ],
+    "middle_notes": [
+      "Coffee",
+      "Jasmine",
+      "Bitter Almond"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Patchouli",
+      "Cedar",
+      "Cashmeran"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "An addictive gourmand with an edgy rock chic character. Black coffee infused with sweet vanilla, white flowers, and a hint of patchouli darkness. The night's most seductive fragrance.",
+    "mood": [
+      "seductive",
+      "bold",
+      "glamorous",
+      "edgy"
+    ],
+    "intensity": "strong",
+    "year": 2014,
+    "price_usd": 95,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p010",
+    "name": "Shalimar",
+    "brand": "Guerlain",
+    "family": "Oriental",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot",
+      "Lemon",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Jasmine",
+      "May Rose",
+      "Iris"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Opoponax",
+      "Civet",
+      "Benzoin",
+      "Tonka Bean"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "very heavy",
+    "description": "The legendary oriental classic, inspired by the Shalimar Gardens of India. A love story in a bottle — rich vanilla, warm spices, and lush florals over a deep smoky base. Timeless sensuality.",
+    "mood": [
+      "opulent",
+      "sensual",
+      "exotic",
+      "timeless"
+    ],
+    "intensity": "very strong",
+    "year": 1925,
+    "price_usd": 125,
+    "size_ml": 75,
+    "origin": "designer"
+  },
+  {
+    "id": "p011",
+    "name": "Bleu de Chanel",
+    "brand": "Chanel",
+    "family": "Aromatic Woody",
+    "gender": "masculine",
+    "top_notes": [
+      "Grapefruit",
+      "Lemon",
+      "Mint",
+      "Pink Pepper"
+    ],
+    "middle_notes": [
+      "Ginger",
+      "Nutmeg",
+      "Jasmine",
+      "Iso E Super"
+    ],
+    "base_notes": [
+      "Cedar",
+      "Labdanum",
+      "Frankincense",
+      "Sandalwood",
+      "Vetiver",
+      "White Musk"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "formal"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "Freedom, style, and masculinity distilled into one bottle. Citrus freshness blooms into warm woody spice. Clean yet complex, Bleu de Chanel defines contemporary masculine elegance.",
+    "mood": [
+      "confident",
+      "clean",
+      "sophisticated",
+      "free"
+    ],
+    "intensity": "moderate",
+    "year": 2010,
+    "price_usd": 150,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p012",
+    "name": "La Vie Est Belle",
+    "brand": "Lancôme",
+    "family": "Gourmand Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Black Currant",
+      "Pear"
+    ],
+    "middle_notes": [
+      "Iris",
+      "Jasmine",
+      "Orange Blossom"
+    ],
+    "base_notes": [
+      "Praline",
+      "Vanilla",
+      "Patchouli",
+      "Tonka Bean"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "Life is beautiful — a joyful and sweet floral fragrance. Vibrant iris and sweet praline with soft vanilla create the scent of happiness. Warm, generous, and irresistibly feminine.",
+    "mood": [
+      "joyful",
+      "optimistic",
+      "warm",
+      "feminine"
+    ],
+    "intensity": "moderate",
+    "year": 2012,
+    "price_usd": 90,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p013",
+    "name": "Oud Wood",
+    "brand": "Tom Ford",
+    "family": "Woody Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Rosewood",
+      "Cardamom",
+      "Chinese Pepper"
+    ],
+    "middle_notes": [
+      "Oud Wood",
+      "Sandalwood",
+      "Vetiver"
+    ],
+    "base_notes": [
+      "Tonka Bean",
+      "Amber",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A rare and exotic oud — smoky, spicy, and rich. Combines rare oud wood with cardamom and sandalwood to create a mysterious and inviting warmth. Intimate and deeply sophisticated.",
+    "mood": [
+      "exotic",
+      "mysterious",
+      "warm",
+      "luxurious"
+    ],
+    "intensity": "strong",
+    "year": 2007,
+    "price_usd": 295,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p014",
+    "name": "Acqua di Gio",
+    "brand": "Giorgio Armani",
+    "family": "Aromatic Aquatic",
+    "gender": "masculine",
+    "top_notes": [
+      "Calabrian Bergamot",
+      "Neroli",
+      "Green Tangerine"
+    ],
+    "middle_notes": [
+      "Rosemary",
+      "Persimmon",
+      "Marine Note",
+      "Jasmine",
+      "Geranium"
+    ],
+    "base_notes": [
+      "White Cedar",
+      "Amber",
+      "Patchouli"
+    ],
+    "occasions": [
+      "casual",
+      "outdoor",
+      "summer"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "mid",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A Mediterranean escape in a bottle. The scent of sea, sky, and wind. Crisp marine notes blend with bergamot and warm cedar. The quintessential summer masculine fragrance.",
+    "mood": [
+      "fresh",
+      "clean",
+      "carefree",
+      "Mediterranean"
+    ],
+    "intensity": "light",
+    "year": 1996,
+    "price_usd": 85,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p015",
+    "name": "Light Blue",
+    "brand": "Dolce & Gabbana",
+    "family": "Fresh Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Sicilian Citron",
+      "Apple",
+      "Cedar"
+    ],
+    "middle_notes": [
+      "Bamboo",
+      "White Rose",
+      "Bellflower"
+    ],
+    "base_notes": [
+      "Cedar",
+      "Amber",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "mid",
+    "longevity": "moderate",
+    "sillage": "light",
+    "description": "The essence of the Mediterranean, evocative of Capri. Crisp Sicilian citron and fresh apple blossoms give way to soft bamboo and woods. Light, carefree, and utterly feminine.",
+    "mood": [
+      "fresh",
+      "light",
+      "carefree",
+      "summery"
+    ],
+    "intensity": "light",
+    "year": 2001,
+    "price_usd": 80,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p016",
+    "name": "Flowerbomb",
+    "brand": "Viktor & Rolf",
+    "family": "Floral Oriental",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot",
+      "Tea",
+      "Osmanthus"
+    ],
+    "middle_notes": [
+      "Centifolia Rose",
+      "Cattleya Orchid",
+      "Freesia",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Musk",
+      "Vanilla",
+      "Amber"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "casual"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A floral explosion — an overdose of flowers, a grenade of femininity. A lush bouquet of rose, orchid, and jasmine anchored by warm patchouli and vanilla. Sweet, bold, and unforgettable.",
+    "mood": [
+      "romantic",
+      "feminine",
+      "bold",
+      "glamorous"
+    ],
+    "intensity": "strong",
+    "year": 2005,
+    "price_usd": 125,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p017",
+    "name": "Molecule 01",
+    "brand": "Escentric Molecules",
+    "family": "Woody Minimalist",
+    "gender": "unisex",
+    "top_notes": [
+      "Iso E Super"
+    ],
+    "middle_notes": [
+      "Iso E Super"
+    ],
+    "base_notes": [
+      "Iso E Super"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "everyday"
+    ],
+    "seasons": [
+      "all seasons"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "skin-close",
+    "description": "A single molecule — Iso E Super. Woody, cedar-like, and deeply personal. Iso E Super reacts uniquely with each person's skin chemistry, creating an invisible aura that is irresistibly close.",
+    "mood": [
+      "minimalist",
+      "unique",
+      "personal",
+      "subtle"
+    ],
+    "intensity": "light",
+    "year": 2006,
+    "price_usd": 90,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p018",
+    "name": "Oud Ispahan",
+    "brand": "Dior",
+    "family": "Woody Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Rose",
+      "Labdanum"
+    ],
+    "middle_notes": [
+      "Oud Wood",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Cistus",
+      "Benzoin"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "excellent",
+    "sillage": "very heavy",
+    "description": "A grand Persian rose entwined with precious oud wood. Rich, deep, and majestic. Rose and oud create a timeless oriental masterpiece that evokes the gardens and souks of ancient Persia.",
+    "mood": [
+      "opulent",
+      "exotic",
+      "romantic",
+      "majestic"
+    ],
+    "intensity": "very strong",
+    "year": 2012,
+    "price_usd": 290,
+    "size_ml": 75,
+    "origin": "designer"
+  },
+  {
+    "id": "p019",
+    "name": "Coco Mademoiselle",
+    "brand": "Chanel",
+    "family": "Oriental Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Orange",
+      "Bergamot",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Jasmine",
+      "Mimosa"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Vetiver",
+      "Vanilla",
+      "White Musk"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "formal"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "Audacious and free — fresh oriental with an orange top note and a bold patchouli dry down. Youthful yet sophisticated, Coco Mademoiselle is the fragrance of the modern Chanel woman.",
+    "mood": [
+      "confident",
+      "free",
+      "youthful",
+      "modern"
+    ],
+    "intensity": "moderate",
+    "year": 2001,
+    "price_usd": 135,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p020",
+    "name": "Boss Bottled",
+    "brand": "Hugo Boss",
+    "family": "Woody Spicy",
+    "gender": "masculine",
+    "top_notes": [
+      "Apple",
+      "Plum",
+      "Lemon",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Cinnamon",
+      "Cloves",
+      "Mahogany"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Vetiver",
+      "Vanilla",
+      "Cedar"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The fragrance of success — sophisticated and masculine. Apple and spice combine with a rich woody base to create a confident everyday scent. Clean, professional, and timeless.",
+    "mood": [
+      "professional",
+      "confident",
+      "classic",
+      "approachable"
+    ],
+    "intensity": "moderate",
+    "year": 1998,
+    "price_usd": 65,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p021",
+    "name": "Baccarat Rouge 540",
+    "brand": "Maison Francis Kurkdjian",
+    "family": "Floral Woody Musk",
+    "gender": "unisex",
+    "top_notes": [
+      "Jasmine",
+      "Saffron"
+    ],
+    "middle_notes": [
+      "Amberwood",
+      "Ambergris"
+    ],
+    "base_notes": [
+      "Fir Resin",
+      "Cedar"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A luminous amber floral — sweet, airy, and deeply woody. Jasmine and saffron dissolve into amberwood and cedar creating a radiant, crystalline warmth. The most coveted niche fragrance of the decade.",
+    "mood": [
+      "luxurious",
+      "radiant",
+      "warm",
+      "modern"
+    ],
+    "intensity": "strong",
+    "year": 2015,
+    "price_usd": 365,
+    "size_ml": 70,
+    "origin": "designer"
+  },
+  {
+    "id": "p022",
+    "name": "Neroli Portofino",
+    "brand": "Tom Ford",
+    "family": "Citrus Aromatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Bergamot",
+      "Lemon",
+      "Bitter Orange",
+      "Mandarin Orange"
+    ],
+    "middle_notes": [
+      "Neroli",
+      "Lavender",
+      "Myrtle",
+      "Rosewood",
+      "Thyme"
+    ],
+    "base_notes": [
+      "Amber",
+      "Oakmoss",
+      "Angelica"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The Ligurian coastline in a fragrance. Sparkling citrus and neroli, the luminous Mediterranean sea air, with a warm amber drydown. Pure luxury, the essence of an Italian summer.",
+    "mood": [
+      "fresh",
+      "luxurious",
+      "Mediterranean",
+      "elegant"
+    ],
+    "intensity": "moderate",
+    "year": 2011,
+    "price_usd": 240,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p023",
+    "name": "Tobacco Vanille",
+    "brand": "Tom Ford",
+    "family": "Oriental Spicy",
+    "gender": "unisex",
+    "top_notes": [
+      "Tobacco Leaf",
+      "Spicy Notes"
+    ],
+    "middle_notes": [
+      "Vanilla",
+      "Cacao",
+      "Tonka Bean"
+    ],
+    "base_notes": [
+      "Dried Fruit",
+      "Wood Sap"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "winter"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A rich, smoky, and deeply comforting blend of tobacco and vanilla. Like a cozy fireside with a glass of aged whiskey — warm, spiced, and completely intoxicating. Perfect cold-weather comfort.",
+    "mood": [
+      "cozy",
+      "warm",
+      "luxurious",
+      "comforting"
+    ],
+    "intensity": "strong",
+    "year": 2007,
+    "price_usd": 295,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p024",
+    "name": "Good Girl",
+    "brand": "Carolina Herrera",
+    "family": "Gourmand Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Almond",
+      "Coffee"
+    ],
+    "middle_notes": [
+      "Tuberose",
+      "Jasmine Sambac"
+    ],
+    "base_notes": [
+      "Tonka Bean",
+      "Cacao",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "casual"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Duality in a bottle — virtue on top, danger within. White floral jasmine and tuberose contrast with addictive coffee and cacao. Bold, seductive, and beautifully complex.",
+    "mood": [
+      "seductive",
+      "bold",
+      "feminine",
+      "complex"
+    ],
+    "intensity": "strong",
+    "year": 2016,
+    "price_usd": 110,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p025",
+    "name": "Stronger With You",
+    "brand": "Emporio Armani",
+    "family": "Oriental Fougère",
+    "gender": "masculine",
+    "top_notes": [
+      "Cardamom",
+      "Pink Pepper",
+      "Violet Leaf"
+    ],
+    "middle_notes": [
+      "Sage",
+      "Chestnut"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Woody Notes",
+      "Amber"
+    ],
+    "occasions": [
+      "casual",
+      "romantic",
+      "evening"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A modern romantic masculine — spiced cardamom and pepper bloom into a warm vanilla heart. Sweet, sensual, and irresistibly magnetic. The scent of effortless masculinity.",
+    "mood": [
+      "romantic",
+      "warm",
+      "masculine",
+      "magnetic"
+    ],
+    "intensity": "moderate",
+    "year": 2017,
+    "price_usd": 80,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p026",
+    "name": "Miss Dior",
+    "brand": "Dior",
+    "family": "Floral Chypre",
+    "gender": "feminine",
+    "top_notes": [
+      "Calabrian Mandarin",
+      "Petitgrain"
+    ],
+    "middle_notes": [
+      "Grasse Rose",
+      "Peony"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The freshest declaration of love. Rose petals from Grasse bloom with bright mandarin, anchored by green patchouli. Classic, romantic, and deeply feminine — the scent of a love letter.",
+    "mood": [
+      "romantic",
+      "fresh",
+      "classic",
+      "feminine"
+    ],
+    "intensity": "moderate",
+    "year": 2011,
+    "price_usd": 125,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p027",
+    "name": "Eros",
+    "brand": "Versace",
+    "family": "Oriental Fougère",
+    "gender": "masculine",
+    "top_notes": [
+      "Fresh Mint",
+      "Green Apple",
+      "Lemon"
+    ],
+    "middle_notes": [
+      "Tonka Bean",
+      "Ambroxan",
+      "Geranium Flower"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Vetiver",
+      "Oak Moss",
+      "Cedarwood"
+    ],
+    "occasions": [
+      "casual",
+      "romantic",
+      "evening"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Inspired by the Greek god of love — fresh mint and green apple collide with warm vanilla and tonka. Irresistibly fresh and sensual. Bold, confident, and made to attract.",
+    "mood": [
+      "confident",
+      "sensual",
+      "fresh",
+      "bold"
+    ],
+    "intensity": "strong",
+    "year": 2012,
+    "price_usd": 75,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p028",
+    "name": "J'adore",
+    "brand": "Dior",
+    "family": "Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Calabrian Bergamot",
+      "Pear",
+      "Melon",
+      "Magnolia"
+    ],
+    "middle_notes": [
+      "Jasmine Sambac",
+      "Tuberose",
+      "Rose",
+      "Violet",
+      "Orchid"
+    ],
+    "base_notes": [
+      "Musk",
+      "Blackberry Musk",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "formal"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "An absolute femininity — a golden floral bouquet of jasmine, rose, and ylang-ylang. Radiant, luminous, and joyful. J'adore is the essence of Dior femininity.",
+    "mood": [
+      "radiant",
+      "joyful",
+      "feminine",
+      "elegant"
+    ],
+    "intensity": "moderate",
+    "year": 1999,
+    "price_usd": 115,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p029",
+    "name": "One Million",
+    "brand": "Paco Rabanne",
+    "family": "Fresh Spicy Leather",
+    "gender": "masculine",
+    "top_notes": [
+      "Blood Mandarin",
+      "Grapefruit",
+      "Mint"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Cinnamon",
+      "Spicy Notes"
+    ],
+    "base_notes": [
+      "Leather",
+      "Ambergris",
+      "Patchouli",
+      "Woody Notes"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "An irresistible blend of luxury and luck. Fresh citrus meets warm leather and spice in this golden masculine. Bold, charismatic, and unforgettable. The scent of pure seduction.",
+    "mood": [
+      "charismatic",
+      "bold",
+      "seductive",
+      "lucky"
+    ],
+    "intensity": "strong",
+    "year": 2008,
+    "price_usd": 85,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p030",
+    "name": "Libre",
+    "brand": "Yves Saint Laurent",
+    "family": "Floral Fougère",
+    "gender": "feminine",
+    "top_notes": [
+      "Mandarin Orange",
+      "Petitgrain"
+    ],
+    "middle_notes": [
+      "Lavender",
+      "Orange Blossom"
+    ],
+    "base_notes": [
+      "Musk",
+      "Vanilla",
+      "Ambergris",
+      "Oakmoss"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "evening"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "Freedom embodied. Lavender — traditionally masculine — becomes ultra-feminine here when married with orange blossom and vanilla. Bold, androgynous, and completely modern.",
+    "mood": [
+      "free",
+      "bold",
+      "modern",
+      "confident"
+    ],
+    "intensity": "moderate",
+    "year": 2019,
+    "price_usd": 110,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p031",
+    "name": "Rose Oud",
+    "brand": "Kilian",
+    "family": "Floral Woody Oud",
+    "gender": "unisex",
+    "top_notes": [
+      "Rose",
+      "Saffron"
+    ],
+    "middle_notes": [
+      "Oud Wood",
+      "Incense"
+    ],
+    "base_notes": [
+      "Amber",
+      "Musk",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "excellent",
+    "sillage": "very heavy",
+    "description": "A Middle Eastern dream — the eternal marriage of rose and oud. Rich Turkish rose mingles with precious oud and golden saffron over a warm amber sandalwood base. Opulent and deeply romantic.",
+    "mood": [
+      "romantic",
+      "opulent",
+      "exotic",
+      "luxurious"
+    ],
+    "intensity": "very strong",
+    "year": 2014,
+    "price_usd": 295,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p032",
+    "name": "Fahrenheit",
+    "brand": "Dior",
+    "family": "Woody Oriental",
+    "gender": "masculine",
+    "top_notes": [
+      "Violet",
+      "Mandarin Orange",
+      "Lavender"
+    ],
+    "middle_notes": [
+      "Nutmeg",
+      "Carnation",
+      "Cedar"
+    ],
+    "base_notes": [
+      "Leather",
+      "Amber",
+      "Vetiver",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "casual"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Fiery and provocative — a unique violet-leather accord warmed by floral carnation and sweet amber. Fahrenheit burns bright and is unlike anything else. Unforgettably masculine.",
+    "mood": [
+      "bold",
+      "provocative",
+      "warm",
+      "unique"
+    ],
+    "intensity": "strong",
+    "year": 1988,
+    "price_usd": 115,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p033",
+    "name": "Chloé Eau de Parfum",
+    "brand": "Chloé",
+    "family": "Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Peony",
+      "Pink Pepper",
+      "Freesia"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Magnolia",
+      "Lily of the Valley"
+    ],
+    "base_notes": [
+      "Cedar",
+      "Amber",
+      "Virginia Cedar"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A pure feminine expression — a fresh, romantic blend of rose and peony. Light, airy, and effortlessly chic. Chloé EDP is the fragrance of effortless Parisian femininity.",
+    "mood": [
+      "feminine",
+      "romantic",
+      "fresh",
+      "chic"
+    ],
+    "intensity": "light",
+    "year": 2008,
+    "price_usd": 85,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p034",
+    "name": "Spicebomb Extreme",
+    "brand": "Viktor & Rolf",
+    "family": "Oriental Spicy",
+    "gender": "masculine",
+    "top_notes": [
+      "Tobacco",
+      "Cayenne"
+    ],
+    "middle_notes": [
+      "Lavender",
+      "Cinnamon",
+      "Vetiver"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Benzoin",
+      "Amber"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Detonate warmth — an intense and fiery oriental spicy masculine. Tobacco and cayenne ignite with cinnamon and lavender, landing on rich vanilla and amber. Bold, warm, and intensely masculine.",
+    "mood": [
+      "bold",
+      "warm",
+      "intense",
+      "powerful"
+    ],
+    "intensity": "very strong",
+    "year": 2015,
+    "price_usd": 115,
+    "size_ml": 90,
+    "origin": "designer"
+  },
+  {
+    "id": "p035",
+    "name": "Pour Homme",
+    "brand": "Versace",
+    "family": "Aromatic Fougère",
+    "gender": "masculine",
+    "top_notes": [
+      "Citrus",
+      "Bergamot",
+      "Neroli"
+    ],
+    "middle_notes": [
+      "Hyacinth",
+      "Clary Sage",
+      "Geranium"
+    ],
+    "base_notes": [
+      "Musk",
+      "Oakmoss",
+      "Cedarwood"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "moderate",
+    "sillage": "moderate",
+    "description": "Clean Mediterranean masculinity — crisp citrus and aromatic herbs over a mossy woody base. Timeless, classic, and utterly inoffensive. The perfect everyday fresh masculine.",
+    "mood": [
+      "clean",
+      "fresh",
+      "classic",
+      "approachable"
+    ],
+    "intensity": "light",
+    "year": 2008,
+    "price_usd": 55,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p036",
+    "name": "Twilly d'Hermès",
+    "brand": "Hermès",
+    "family": "Floral Spicy",
+    "gender": "feminine",
+    "top_notes": [
+      "Ginger"
+    ],
+    "middle_notes": [
+      "Tuberose"
+    ],
+    "base_notes": [
+      "Sandalwood"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "Young, bold, and vibrant — a fresh take on spicy floral. Zingy ginger entwines with the lush creaminess of tuberose over warm sandalwood. Youthful energy meets Hermès refinement.",
+    "mood": [
+      "youthful",
+      "vibrant",
+      "bold",
+      "modern"
+    ],
+    "intensity": "moderate",
+    "year": 2017,
+    "price_usd": 120,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p037",
+    "name": "Silver Mountain Water",
+    "brand": "Creed",
+    "family": "Green Aquatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Bergamot",
+      "Mandarin Orange",
+      "Green Tea"
+    ],
+    "middle_notes": [
+      "Blackcurrant Bud",
+      "Galbanum"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Musk",
+      "Vetiver"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The spirit of the Swiss Alps in a bottle. Fresh green tea and bergamot evoke crisp mountain air and glacial water. Clean, pure, and refreshingly natural.",
+    "mood": [
+      "fresh",
+      "clean",
+      "natural",
+      "invigorating"
+    ],
+    "intensity": "light",
+    "year": 1995,
+    "price_usd": 395,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p038",
+    "name": "Patchouli 24",
+    "brand": "Le Labo",
+    "family": "Woody Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Birch Tar"
+    ],
+    "middle_notes": [
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Musks",
+      "Ambergris"
+    ],
+    "occasions": [
+      "casual",
+      "evening",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "Smoky, campfire patchouli with birch tar and a creamy vanilla base. Raw, animalistic, and deeply earthy. For those who love the scent of nature, fire, and something truly primordial.",
+    "mood": [
+      "earthy",
+      "raw",
+      "warm",
+      "unconventional"
+    ],
+    "intensity": "strong",
+    "year": 2006,
+    "price_usd": 195,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p039",
+    "name": "Santal 33",
+    "brand": "Le Labo",
+    "family": "Woody Aromatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Cardamom",
+      "Iris",
+      "Violet"
+    ],
+    "middle_notes": [
+      "Ambrox",
+      "Papyrus"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Cedarwood",
+      "Leather",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "everyday"
+    ],
+    "seasons": [
+      "all seasons"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "moderate",
+    "description": "The New York scent of a generation. Warm sandalwood and leather with a violet-iris softness. Intimate, cozy, and utterly addictive. Santal 33 became the signature scent of an entire era.",
+    "mood": [
+      "cozy",
+      "intimate",
+      "modern",
+      "addictive"
+    ],
+    "intensity": "moderate",
+    "year": 2011,
+    "price_usd": 195,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p040",
+    "name": "Bal d'Afrique",
+    "brand": "Byredo",
+    "family": "Floral Musk",
+    "gender": "unisex",
+    "top_notes": [
+      "Lemon",
+      "Bergamot",
+      "African Marigold"
+    ],
+    "middle_notes": [
+      "Neroli",
+      "Jasmine",
+      "Violet"
+    ],
+    "base_notes": [
+      "African Bluegrass",
+      "Musk",
+      "Vetiver",
+      "Suede",
+      "Cedarwood"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "evening"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "Inspired by African artistry and rhythm — golden marigold, exotic flowers, and earthy musk. Bright, lively, and deeply sensual. A celebration of African culture through scent.",
+    "mood": [
+      "vibrant",
+      "exotic",
+      "sensual",
+      "artistic"
+    ],
+    "intensity": "moderate",
+    "year": 2009,
+    "price_usd": 200,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p041",
+    "name": "Gypsy Water",
+    "brand": "Byredo",
+    "family": "Woody Fresh",
+    "gender": "unisex",
+    "top_notes": [
+      "Bergamot",
+      "Lemon",
+      "Pepper"
+    ],
+    "middle_notes": [
+      "Juniper Berries",
+      "Incense",
+      "Pine Needles"
+    ],
+    "base_notes": [
+      "Amber",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "casual",
+      "everyday",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The spirit of Romani freedom — bergamot and pine with a warm amber and vanilla drydown. Fresh yet woody, free-spirited and nomadic. Like walking through a forest on a crisp morning.",
+    "mood": [
+      "free",
+      "adventurous",
+      "natural",
+      "bohemian"
+    ],
+    "intensity": "moderate",
+    "year": 2008,
+    "price_usd": 200,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p042",
+    "name": "Ambre Sultan",
+    "brand": "Serge Lutens",
+    "family": "Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Bay Leaf",
+      "Oregano",
+      "Coriander"
+    ],
+    "middle_notes": [
+      "Benzoin",
+      "Mastic",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Amber",
+      "Styrax",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A golden, resinous amber of mythical proportions. Herbal and earthy spices open to warm resins and precious amber. Rich, complex, and deeply meditative. The amber to define all ambers.",
+    "mood": [
+      "mysterious",
+      "warm",
+      "meditative",
+      "rich"
+    ],
+    "intensity": "strong",
+    "year": 2000,
+    "price_usd": 175,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p043",
+    "name": "Iris Nobile",
+    "brand": "Acqua di Parma",
+    "family": "Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Mandarin Orange",
+      "Neroli",
+      "Grapefruit"
+    ],
+    "middle_notes": [
+      "Iris",
+      "Jasmine",
+      "Rose"
+    ],
+    "base_notes": [
+      "Cedarwood",
+      "Sandalwood",
+      "Musk"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "formal"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "Italian elegance in a flacon — the noble iris of Florence surrounded by delicate jasmine and citrus. Powdery, refined, and aristocratic. A masterwork of Italian floral perfumery.",
+    "mood": [
+      "elegant",
+      "refined",
+      "classic",
+      "powdery"
+    ],
+    "intensity": "moderate",
+    "year": 2004,
+    "price_usd": 155,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p044",
+    "name": "Colonia",
+    "brand": "Acqua di Parma",
+    "family": "Citrus Aromatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Calabrian Lemon",
+      "Grapefruit",
+      "Orange",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Rosemary",
+      "Lavender",
+      "Bulgarian Rose"
+    ],
+    "base_notes": [
+      "Musk",
+      "Vetiver",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "high",
+    "longevity": "moderate",
+    "sillage": "light",
+    "description": "Since 1916, the original Italian citrus cologne. Bright citrus accord with soft lavender and rosemary, drying down to warm musk. Timeless, unisex, and the epitome of Italian sprezzatura.",
+    "mood": [
+      "fresh",
+      "classic",
+      "refined",
+      "effortless"
+    ],
+    "intensity": "light",
+    "year": 1916,
+    "price_usd": 160,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p045",
+    "name": "Eau Sauvage",
+    "brand": "Dior",
+    "family": "Citrus Aromatic",
+    "gender": "masculine",
+    "top_notes": [
+      "Calabrian Bergamot",
+      "Aldehydes",
+      "Hedione"
+    ],
+    "middle_notes": [
+      "Jasmine",
+      "Basil",
+      "Vetiver"
+    ],
+    "base_notes": [
+      "Oakmoss",
+      "Amber"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "everyday"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "mid",
+    "longevity": "moderate",
+    "sillage": "light",
+    "description": "The original fresh masculine — refined, wild, and irresistible. The first fragrance to use Hedione, giving it a jasmine freshness unlike anything before. Timeless French elegance.",
+    "mood": [
+      "classic",
+      "elegant",
+      "fresh",
+      "timeless"
+    ],
+    "intensity": "light",
+    "year": 1966,
+    "price_usd": 95,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p046",
+    "name": "Scandal",
+    "brand": "Jean Paul Gaultier",
+    "family": "Floral Woody Musk",
+    "gender": "feminine",
+    "top_notes": [
+      "Honey",
+      "Blood Orange",
+      "Gardenia"
+    ],
+    "middle_notes": [
+      "Caramel Popcorn",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Patchouli"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "casual"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "Sweet, bold, and provocative — honey and caramel blend with rich jasmine over a patchouli base. Sensual, modern, and addictively sweet. For the woman who makes heads turn.",
+    "mood": [
+      "seductive",
+      "sweet",
+      "bold",
+      "provocative"
+    ],
+    "intensity": "strong",
+    "year": 2017,
+    "price_usd": 95,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p047",
+    "name": "Dior Homme",
+    "brand": "Dior",
+    "family": "Aromatic Iris",
+    "gender": "masculine",
+    "top_notes": [
+      "Lavender",
+      "Bergamot",
+      "Iris"
+    ],
+    "middle_notes": [
+      "Iris",
+      "Cocoa",
+      "Vetiver",
+      "Sage"
+    ],
+    "base_notes": [
+      "Ambergris",
+      "Virginia Cedar",
+      "Skin"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "high",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A revolutionary masculine — lipstick-powdery iris and lavender with a cocoa warmth. Androgynous and deeply intimate. Dior Homme redefined masculinity in fragrance.",
+    "mood": [
+      "intimate",
+      "sophisticated",
+      "androgynous",
+      "refined"
+    ],
+    "intensity": "moderate",
+    "year": 2005,
+    "price_usd": 105,
+    "size_ml": 75,
+    "origin": "designer"
+  },
+  {
+    "id": "p048",
+    "name": "Amazonia",
+    "brand": "Maison Martin Margiela",
+    "family": "Green Aquatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Grapefruit",
+      "Lime"
+    ],
+    "middle_notes": [
+      "Ivy",
+      "Fern"
+    ],
+    "base_notes": [
+      "Cedar",
+      "Musk",
+      "Amber"
+    ],
+    "occasions": [
+      "casual",
+      "outdoor",
+      "summer"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "high",
+    "longevity": "moderate",
+    "sillage": "light",
+    "description": "The rainforest at dawn — vibrant citrus and green ferns over a cedar musk base. Crisp, dewy, and wildly natural. A breath of jungle air, cool and alive.",
+    "mood": [
+      "fresh",
+      "natural",
+      "adventurous",
+      "green"
+    ],
+    "intensity": "light",
+    "year": 2018,
+    "price_usd": 195,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p049",
+    "name": "Mon Guerlain",
+    "brand": "Guerlain",
+    "family": "Oriental Lavender",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Lavender",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Sandalwood",
+      "Tonka Bean"
+    ],
+    "occasions": [
+      "casual",
+      "romantic",
+      "everyday"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "mid",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "Feminine and free — lavender blossoms over a warm vanilla and sandalwood base. A modern floral oriental that captures effortless femininity. Soft, dreamy, and comforting.",
+    "mood": [
+      "feminine",
+      "soft",
+      "dreamy",
+      "comforting"
+    ],
+    "intensity": "moderate",
+    "year": 2017,
+    "price_usd": 65,
+    "size_ml": 50,
+    "origin": "designer"
+  },
+  {
+    "id": "p050",
+    "name": "Ambrosia di Fiori",
+    "brand": "Acqua di Parma",
+    "family": "Floral Citrus",
+    "gender": "unisex",
+    "top_notes": [
+      "Bergamot",
+      "Citron"
+    ],
+    "middle_notes": [
+      "Jasmine",
+      "Tuberose",
+      "Peony"
+    ],
+    "base_notes": [
+      "Musk",
+      "Amber",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "evening"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "ultra-luxury",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "Floral nectar — a divine blend of Italian citrus and lush white flowers over a soft amber musk. Elegant, bright, and luminous. The Italian notion of la dolce vita distilled into a fragrance.",
+    "mood": [
+      "luminous",
+      "elegant",
+      "joyful",
+      "Italian"
+    ],
+    "intensity": "moderate",
+    "year": 2019,
+    "price_usd": 300,
+    "size_ml": 100,
+    "origin": "designer"
+  },
+  {
+    "id": "p051",
+    "name": "Khamrah",
+    "brand": "Lattafa",
+    "family": "Amber Gourmand",
+    "gender": "unisex",
+    "top_notes": [
+      "Cinnamon",
+      "Nutmeg",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Mahonial",
+      "Praline",
+      "Dates"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Tonka Bean",
+      "Benzoin",
+      "Myrrh"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A spiced gourmand with rich dates, cinnamon and creamy vanilla tonka. Deeply warm and intoxicating — a celebration in a bottle.",
+    "mood": [
+      "cozy",
+      "bold",
+      "mysterious"
+    ],
+    "intensity": "strong",
+    "year": 2022,
+    "price_usd": 38,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p052",
+    "name": "Yara",
+    "brand": "Lattafa",
+    "family": "Floral Gourmand",
+    "gender": "feminine",
+    "top_notes": [
+      "Orchid",
+      "Gourmand Accord"
+    ],
+    "middle_notes": [
+      "Tahitian Vanilla",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "evening",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A sweet, creamy floral with luscious Tahitian vanilla and orchid. A modern feminine favourite that smells expensive far above its price.",
+    "mood": [
+      "romantic",
+      "playful",
+      "cozy"
+    ],
+    "intensity": "moderate",
+    "year": 2020,
+    "price_usd": 30,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p053",
+    "name": "Bade'e Al Oud Amethyst",
+    "brand": "Lattafa",
+    "family": "Woody Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Saffron",
+      "Cardamom"
+    ],
+    "middle_notes": [
+      "Oud",
+      "Rose",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Amber",
+      "Musk",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A regal oud-saffron composition with rose and amber. Deep, smoky and unapologetically Arabian.",
+    "mood": [
+      "mysterious",
+      "bold",
+      "elegant"
+    ],
+    "intensity": "very strong",
+    "year": 2021,
+    "price_usd": 42,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p054",
+    "name": "Asad",
+    "brand": "Lattafa",
+    "family": "Woody Aromatic",
+    "gender": "masculine",
+    "top_notes": [
+      "Bergamot",
+      "Green Apple"
+    ],
+    "middle_notes": [
+      "Birch",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Oud",
+      "Musk",
+      "Ambergris"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "evening"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "heavy",
+    "description": "A bold, smoky woody fragrance — green apple bite over a rugged oud-birch base. A confident daily masculine.",
+    "mood": [
+      "bold",
+      "energetic"
+    ],
+    "intensity": "strong",
+    "year": 2021,
+    "price_usd": 28,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p055",
+    "name": "Fakhar",
+    "brand": "Lattafa",
+    "family": "Aromatic Fougère",
+    "gender": "masculine",
+    "top_notes": [
+      "Apple",
+      "Lavender",
+      "Cardamom"
+    ],
+    "middle_notes": [
+      "Cinnamon",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Oud",
+      "Tonka Bean",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A sweet-spicy masculine with apple, cinnamon and warm tonka. Often compared to luxury niche houses at a fraction of the price.",
+    "mood": [
+      "cozy",
+      "bold",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2021,
+    "price_usd": 32,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p056",
+    "name": "Aristocrat",
+    "brand": "Ajmal",
+    "family": "Aromatic Fougère",
+    "gender": "masculine",
+    "top_notes": [
+      "Mint",
+      "Basil",
+      "Aldehydes"
+    ],
+    "middle_notes": [
+      "Geranium",
+      "Cedar",
+      "Lavender"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Vetiver",
+      "Musk"
+    ],
+    "occasions": [
+      "office",
+      "casual",
+      "formal"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A clean, sharp masculine fougère — fresh mint and cedar over a polished vetiver base. Office-friendly and refined.",
+    "mood": [
+      "fresh",
+      "elegant",
+      "energetic"
+    ],
+    "intensity": "moderate",
+    "year": 2014,
+    "price_usd": 40,
+    "size_ml": 75,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p057",
+    "name": "Amber Wood",
+    "brand": "Ajmal",
+    "family": "Woody Amber",
+    "gender": "unisex",
+    "top_notes": [
+      "Saffron",
+      "Cardamom"
+    ],
+    "middle_notes": [
+      "Cedar",
+      "Sandalwood"
+    ],
+    "base_notes": [
+      "Amber",
+      "Oud",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A warm amber-oud composition with saffron and creamy sandalwood. Reminiscent of luxury Arabian attars.",
+    "mood": [
+      "cozy",
+      "mysterious",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2016,
+    "price_usd": 65,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p058",
+    "name": "Wisal",
+    "brand": "Ajmal",
+    "family": "Floral Oriental",
+    "gender": "feminine",
+    "top_notes": [
+      "Saffron",
+      "Cardamom",
+      "Plum"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Oud",
+      "Amber",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "An opulent rose-oud feminine with saffron and amber. Sensual, sophisticated and unmistakably Middle Eastern.",
+    "mood": [
+      "romantic",
+      "mysterious",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2009,
+    "price_usd": 45,
+    "size_ml": 50,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p059",
+    "name": "Hawas",
+    "brand": "Rasasi",
+    "family": "Aquatic Woody",
+    "gender": "masculine",
+    "top_notes": [
+      "Sage",
+      "Apple",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Juniper Berries",
+      "Cypress"
+    ],
+    "base_notes": [
+      "Ambergris",
+      "Patchouli",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A fresh aquatic masculine with sage and juniper over woody ambergris. Often compared to Creed Aventus at a fraction of the cost.",
+    "mood": [
+      "fresh",
+      "energetic",
+      "bold"
+    ],
+    "intensity": "moderate",
+    "year": 2018,
+    "price_usd": 36,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p060",
+    "name": "La Yuqawam",
+    "brand": "Rasasi",
+    "family": "Fresh Spicy",
+    "gender": "masculine",
+    "top_notes": [
+      "Pineapple",
+      "Bergamot",
+      "Apple"
+    ],
+    "middle_notes": [
+      "Birch",
+      "Patchouli",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Ambroxan",
+      "Oakmoss",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "evening",
+      "office"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A juicy pineapple opening over smoky birch — fresh, fruity and assertive. A confident crowd-pleaser.",
+    "mood": [
+      "fresh",
+      "bold",
+      "playful"
+    ],
+    "intensity": "moderate",
+    "year": 2017,
+    "price_usd": 30,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p061",
+    "name": "Shaghaf Oud",
+    "brand": "Swiss Arabian",
+    "family": "Woody Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Saffron",
+      "Pink Pepper"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Oud"
+    ],
+    "base_notes": [
+      "Amber",
+      "Patchouli",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "An intoxicating rose-oud-saffron blend, rich and creamy. The kind of fragrance that turns heads at any gathering.",
+    "mood": [
+      "romantic",
+      "mysterious",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2019,
+    "price_usd": 50,
+    "size_ml": 75,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p062",
+    "name": "Dirham",
+    "brand": "Swiss Arabian",
+    "family": "Fresh Aromatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Lemon",
+      "Pineapple",
+      "Mandarin"
+    ],
+    "middle_notes": [
+      "Apple",
+      "Sage"
+    ],
+    "base_notes": [
+      "Vetiver",
+      "Patchouli",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A bright citrus-fruity opening with a clean vetiver dry-down. Crisp, easygoing and ideal for daytime wear.",
+    "mood": [
+      "fresh",
+      "energetic",
+      "playful"
+    ],
+    "intensity": "moderate",
+    "year": 2015,
+    "price_usd": 26,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p063",
+    "name": "L'Aventure",
+    "brand": "Al Haramain",
+    "family": "Aromatic Fougère",
+    "gender": "masculine",
+    "top_notes": [
+      "Apple",
+      "Bergamot",
+      "Lavender"
+    ],
+    "middle_notes": [
+      "Geranium",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Oakmoss",
+      "Ambroxan",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "office"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "An elegant apple-lavender fougère with a sophisticated woody base. A favourite among Indian fragrance enthusiasts for its longevity.",
+    "mood": [
+      "elegant",
+      "bold",
+      "cozy"
+    ],
+    "intensity": "strong",
+    "year": 2017,
+    "price_usd": 55,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p064",
+    "name": "Amber Oud Gold Edition",
+    "brand": "Al Haramain",
+    "family": "Woody Amber",
+    "gender": "unisex",
+    "top_notes": [
+      "Bergamot",
+      "Pineapple"
+    ],
+    "middle_notes": [
+      "Oud",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Amber",
+      "Vanilla",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "mid",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A luxurious amber-oud with sweet vanilla undertones. Warm, sensual and long-lasting — perfect for cooler weather.",
+    "mood": [
+      "cozy",
+      "mysterious",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2018,
+    "price_usd": 60,
+    "size_ml": 60,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p065",
+    "name": "Club de Nuit Intense Man",
+    "brand": "Armaf",
+    "family": "Woody Fruity",
+    "gender": "masculine",
+    "top_notes": [
+      "Pineapple",
+      "Black Currant",
+      "Apple",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Birch",
+      "Patchouli",
+      "Jasmine",
+      "Rose"
+    ],
+    "base_notes": [
+      "Musk",
+      "Oakmoss",
+      "Ambergris",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "casual",
+      "office",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "The legendary 'Aventus clone' — smoky pineapple over birch and ambergris. Massive value for the price and a staple in any masculine collection.",
+    "mood": [
+      "bold",
+      "energetic",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2015,
+    "price_usd": 32,
+    "size_ml": 105,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p066",
+    "name": "Ventana",
+    "brand": "Armaf",
+    "family": "Fresh Woody",
+    "gender": "masculine",
+    "top_notes": [
+      "Lemon",
+      "Bergamot",
+      "Mandarin"
+    ],
+    "middle_notes": [
+      "Lavender",
+      "Geranium"
+    ],
+    "base_notes": [
+      "Cedar",
+      "Musk",
+      "Tonka Bean"
+    ],
+    "occasions": [
+      "office",
+      "casual"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A clean, breezy citrus-lavender daily driver. Polite enough for the office, fresh enough for warm days.",
+    "mood": [
+      "fresh",
+      "elegant"
+    ],
+    "intensity": "light",
+    "year": 2019,
+    "price_usd": 24,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p067",
+    "name": "9 PM",
+    "brand": "Afnan",
+    "family": "Amber Gourmand",
+    "gender": "masculine",
+    "top_notes": [
+      "Apple",
+      "Lavender",
+      "Violet"
+    ],
+    "middle_notes": [
+      "Cardamom",
+      "Cinnamon"
+    ],
+    "base_notes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Amber"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "heavy",
+    "description": "A sweet-spicy evening masculine with apple, cardamom and warm vanilla tonka. A modern crowd-pleaser.",
+    "mood": [
+      "cozy",
+      "romantic",
+      "bold"
+    ],
+    "intensity": "strong",
+    "year": 2020,
+    "price_usd": 34,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p068",
+    "name": "Supremacy Silver",
+    "brand": "Afnan",
+    "family": "Woody Aquatic",
+    "gender": "masculine",
+    "top_notes": [
+      "Lemon",
+      "Mandarin",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Cypress",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Ambergris",
+      "Musk",
+      "Vanilla"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A bright aquatic masculine in the Aventus family — citrus and ambergris with a smooth musky base.",
+    "mood": [
+      "fresh",
+      "bold",
+      "energetic"
+    ],
+    "intensity": "moderate",
+    "year": 2019,
+    "price_usd": 33,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p069",
+    "name": "Hayaati",
+    "brand": "Khadlaj",
+    "family": "Amber Floral",
+    "gender": "unisex",
+    "top_notes": [
+      "Bergamot",
+      "Rose"
+    ],
+    "middle_notes": [
+      "Jasmine",
+      "Cinnamon"
+    ],
+    "base_notes": [
+      "Amber",
+      "Sandalwood",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "casual"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A warm amber-floral with creamy sandalwood. Cozy, comforting and easy to wear.",
+    "mood": [
+      "cozy",
+      "romantic",
+      "elegant"
+    ],
+    "intensity": "moderate",
+    "year": 2018,
+    "price_usd": 22,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p070",
+    "name": "Oud Mood",
+    "brand": "Lattafa",
+    "family": "Woody Oriental",
+    "gender": "unisex",
+    "top_notes": [
+      "Spices",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Oud",
+      "Rose",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Amber",
+      "Musk",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "evening",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A bold, smoky oud composition with rose and spice. Traditional Middle Eastern character at an accessible price.",
+    "mood": [
+      "mysterious",
+      "bold",
+      "elegant"
+    ],
+    "intensity": "very strong",
+    "year": 2018,
+    "price_usd": 36,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p071",
+    "name": "Club de Nuit Women",
+    "brand": "Armaf",
+    "family": "Floral Fruity Chypre",
+    "gender": "feminine",
+    "top_notes": [
+      "Orange",
+      "Bergamot",
+      "Black Currant"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Jasmine",
+      "Lemon Tree Blossom"
+    ],
+    "base_notes": [
+      "Patchouli",
+      "Vetiver",
+      "White Musk"
+    ],
+    "occasions": [
+      "office",
+      "evening",
+      "casual",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A polished Coco Mademoiselle homage — citrusy opening, rose-jasmine heart, refined patchouli musk. Office-elegant and crowd-pleasing.",
+    "mood": [
+      "elegant",
+      "fresh",
+      "playful"
+    ],
+    "intensity": "moderate",
+    "year": 2018,
+    "price_usd": 28,
+    "size_ml": 105,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p072",
+    "name": "Raindrops",
+    "brand": "Ajmal",
+    "family": "Floral Fruity",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot",
+      "Apricot",
+      "Plum"
+    ],
+    "middle_notes": [
+      "Tuberose",
+      "Rose",
+      "Lily"
+    ],
+    "base_notes": [
+      "Honey",
+      "Sandalwood",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A dewy, fresh floral with juicy apricot and tuberose. Light, breezy and easy to wear — a Reddit darling for daily feminine use.",
+    "mood": [
+      "fresh",
+      "playful",
+      "romantic"
+    ],
+    "intensity": "moderate",
+    "year": 2014,
+    "price_usd": 32,
+    "size_ml": 50,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p073",
+    "name": "Shaghaf Oud Ahmar",
+    "brand": "Swiss Arabian",
+    "family": "Woody Floral",
+    "gender": "unisex",
+    "top_notes": [
+      "Saffron",
+      "Pink Pepper",
+      "Damask Rose"
+    ],
+    "middle_notes": [
+      "Bulgarian Rose",
+      "Oud",
+      "Patchouli"
+    ],
+    "base_notes": [
+      "Vanilla",
+      "Amber",
+      "White Musk"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "The red Shaghaf — a sweeter, vanilla-laced rose-oud. Cozy, sensual, deeply romantic and forgiving for newcomers to oud.",
+    "mood": [
+      "romantic",
+      "cozy",
+      "mysterious"
+    ],
+    "intensity": "strong",
+    "year": 2019,
+    "price_usd": 46,
+    "size_ml": 75,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p074",
+    "name": "Delilah",
+    "brand": "Lattafa",
+    "family": "Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot",
+      "Pear"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Peony",
+      "Lily of the Valley"
+    ],
+    "base_notes": [
+      "Musk",
+      "Sandalwood"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A modern, clean floral with pear and rose. Commonly compared to Delina — fresh, feminine, never overwhelming.",
+    "mood": [
+      "fresh",
+      "romantic",
+      "playful"
+    ],
+    "intensity": "moderate",
+    "year": 2022,
+    "price_usd": 26,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p075",
+    "name": "Dirham Wardi",
+    "brand": "Swiss Arabian",
+    "family": "Fresh Floral",
+    "gender": "unisex",
+    "top_notes": [
+      "Rose",
+      "Lemon",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Geranium",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "White Musk"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "The rose-forward variant of Dirham — bright citrus over fresh rose, clean musky base. Light, unisex, and very easy to wear.",
+    "mood": [
+      "fresh",
+      "romantic",
+      "elegant"
+    ],
+    "intensity": "light",
+    "year": 2020,
+    "price_usd": 28,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p076",
+    "name": "Angham",
+    "brand": "Lattafa",
+    "family": "Floral Oriental",
+    "gender": "feminine",
+    "top_notes": [
+      "Saffron",
+      "Cardamom",
+      "Cinnamon"
+    ],
+    "middle_notes": [
+      "Rose",
+      "Jasmine",
+      "Orange Blossom"
+    ],
+    "base_notes": [
+      "Amber",
+      "Patchouli",
+      "Vanilla",
+      "Musk"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "heavy",
+    "description": "A sweet rose-saffron with creamy amber and warm spice. Sensual, opulent and unmistakably oriental.",
+    "mood": [
+      "romantic",
+      "cozy",
+      "elegant",
+      "mysterious"
+    ],
+    "intensity": "strong",
+    "year": 2022,
+    "price_usd": 30,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p077",
+    "name": "Untold",
+    "brand": "Maison Alhambra",
+    "family": "Floral",
+    "gender": "feminine",
+    "top_notes": [
+      "Bergamot",
+      "Pear",
+      "Mandarin"
+    ],
+    "middle_notes": [
+      "Turkish Rose",
+      "Lily of the Valley",
+      "Peony"
+    ],
+    "base_notes": [
+      "White Musk",
+      "Sandalwood",
+      "Cedar"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "romantic"
+    ],
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "A Delina-inspired floral — fresh rose, soft musk and a touch of sweetness. Modern, feminine, very wearable.",
+    "mood": [
+      "romantic",
+      "fresh",
+      "elegant"
+    ],
+    "intensity": "moderate",
+    "year": 2022,
+    "price_usd": 35,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p078",
+    "name": "Asad Bourbon",
+    "brand": "Lattafa",
+    "family": "Aromatic Spicy",
+    "gender": "masculine",
+    "top_notes": [
+      "Apple",
+      "Lavender",
+      "Bergamot"
+    ],
+    "middle_notes": [
+      "Rum",
+      "Tobacco",
+      "Cinnamon"
+    ],
+    "base_notes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Amber",
+      "Patchouli"
+    ],
+    "occasions": [
+      "evening",
+      "romantic",
+      "formal"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "heavy",
+    "description": "A warm rum-tobacco masculine with apple and lavender. Smooth, slightly boozy, made for cold evenings and confident wearers.",
+    "mood": [
+      "cozy",
+      "bold",
+      "mysterious"
+    ],
+    "intensity": "strong",
+    "year": 2023,
+    "price_usd": 28,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p079",
+    "name": "Layali",
+    "brand": "Maison Alhambra",
+    "family": "Floral Gourmand",
+    "gender": "feminine",
+    "top_notes": [
+      "Orchid",
+      "Gourmand Accord"
+    ],
+    "middle_notes": [
+      "Vanilla",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Sandalwood",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "evening",
+      "romantic"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A sweet, creamy floral-gourmand often compared to Lattafa Yara. Soft vanilla orchid, very approachable.",
+    "mood": [
+      "romantic",
+      "cozy",
+      "playful"
+    ],
+    "intensity": "moderate",
+    "year": 2021,
+    "price_usd": 24,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p080",
+    "name": "Eclaire",
+    "brand": "Lattafa",
+    "family": "Gourmand",
+    "gender": "feminine",
+    "top_notes": [
+      "Lemon",
+      "Bergamot",
+      "Mandarin"
+    ],
+    "middle_notes": [
+      "Caramel",
+      "Praline",
+      "Pistachio"
+    ],
+    "base_notes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Musk"
+    ],
+    "occasions": [
+      "casual",
+      "romantic",
+      "evening"
+    ],
+    "seasons": [
+      "fall",
+      "winter"
+    ],
+    "price_range": "affordable",
+    "longevity": "very good",
+    "sillage": "moderate",
+    "description": "A sweet pistachio-caramel gourmand with a citrus opening — dessert-like, playful and addictive.",
+    "mood": [
+      "cozy",
+      "playful",
+      "romantic"
+    ],
+    "intensity": "moderate",
+    "year": 2023,
+    "price_usd": 32,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p081",
+    "name": "Bade'e Al Oud Oud for Glory",
+    "brand": "Lattafa",
+    "family": "Woody Aromatic",
+    "gender": "unisex",
+    "top_notes": [
+      "Lavender",
+      "Patchouli",
+      "Nutmeg"
+    ],
+    "middle_notes": [
+      "Oud",
+      "Sandalwood"
+    ],
+    "base_notes": [
+      "Amber",
+      "Musk",
+      "Vanilla"
+    ],
+    "occasions": [
+      "evening",
+      "formal",
+      "office"
+    ],
+    "seasons": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "price_range": "affordable",
+    "longevity": "excellent",
+    "sillage": "heavy",
+    "description": "A bold lavender-oud composition often cited as a Penhaligon's Oud clone. Smoky, herbal and refined.",
+    "mood": [
+      "bold",
+      "mysterious",
+      "elegant"
+    ],
+    "intensity": "strong",
+    "year": 2021,
+    "price_usd": 38,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  },
+  {
+    "id": "p082",
+    "name": "Hawas Ice",
+    "brand": "Rasasi",
+    "family": "Aquatic Fresh",
+    "gender": "masculine",
+    "top_notes": [
+      "Mint",
+      "Bergamot",
+      "Apple"
+    ],
+    "middle_notes": [
+      "Cypress",
+      "Juniper Berries"
+    ],
+    "base_notes": [
+      "Ambergris",
+      "Musk",
+      "Cedar"
+    ],
+    "occasions": [
+      "casual",
+      "office",
+      "outdoor"
+    ],
+    "seasons": [
+      "spring",
+      "summer"
+    ],
+    "price_range": "affordable",
+    "longevity": "good",
+    "sillage": "moderate",
+    "description": "An icy, mentholated take on Hawas — fresh apple-mint over aquatic ambergris. Built for hot weather and gyms.",
+    "mood": [
+      "fresh",
+      "energetic",
+      "bold"
+    ],
+    "intensity": "moderate",
+    "year": 2021,
+    "price_usd": 38,
+    "size_ml": 100,
+    "origin": "middle_eastern"
+  }
+]
