@@ -1,8 +1,25 @@
 """Web search utilities: DuckDuckGo web search and image search."""
+import json
 import time
+from pathlib import Path
+
 from ddgs import DDGS
 
-_image_cache: dict[str, str] = {}
+_CACHE_FILE = Path(__file__).parent / "image_cache.json"
+
+
+def _load_cache() -> dict[str, str]:
+    try:
+        return json.loads(_CACHE_FILE.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def _save_cache(cache: dict[str, str]) -> None:
+    _CACHE_FILE.write_text(json.dumps(cache, indent=2))
+
+
+_image_cache: dict[str, str] = _load_cache()
 
 
 def search_web(query: str, max_results: int = 6) -> list[dict]:
@@ -26,11 +43,13 @@ def search_perfume_image(perfume_id: str, name: str, brand: str) -> str | None:
             url = r.get("image", "")
             if any(d in url for d in ["sephora", "fragrantica", "nordstrom", "ulta", "chanel.com", "dior.com", "tomford", "creed", "jomalone"]):
                 _image_cache[perfume_id] = url
+                _save_cache(_image_cache)
                 return url
         if results:
             url = results[0].get("image", "")
             if url:
                 _image_cache[perfume_id] = url
+                _save_cache(_image_cache)
                 return url
     except Exception:
         pass

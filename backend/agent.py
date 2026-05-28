@@ -3,7 +3,7 @@ import json
 import os
 import re
 
-from groq import Groq
+from groq import AsyncGroq
 
 import websearch
 import currency
@@ -107,7 +107,7 @@ def _to_perfume_result(p: dict, reason: str = "") -> PerfumeResult:
 
 class PerfumeAgent:
     def __init__(self, rag, recommender):
-        self._client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+        self._client = AsyncGroq(api_key=os.getenv("GROQ_API_KEY"))
         self._rag = rag
         self._recommender = recommender
 
@@ -220,7 +220,7 @@ class PerfumeAgent:
     # ------------------------------------------------------------------ #
     # Chat (agentic loop)
     # ------------------------------------------------------------------ #
-    def chat(self, user_message: str, history: list[ChatMessage]) -> tuple[str, list[PerfumeResult]]:
+    async def chat(self, user_message: str, history: list[ChatMessage]) -> tuple[str, list[PerfumeResult]]:
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
         for h in history:
             messages.append({"role": h.role, "content": h.content})
@@ -229,7 +229,7 @@ class PerfumeAgent:
         collected_perfumes: list[dict] = []
 
         for _ in range(8):
-            response = self._client.chat.completions.create(
+            response = await self._client.chat.completions.create(
                 model=MODEL,
                 messages=messages,
                 tools=TOOLS,
@@ -278,7 +278,7 @@ class PerfumeAgent:
     # ------------------------------------------------------------------ #
     # Structured recommendation (quiz mode)
     # ------------------------------------------------------------------ #
-    def get_recommendations(
+    async def get_recommendations(
         self, prefs: UserPreferences, top_k: int = 5
     ) -> tuple[str, list[PerfumeResult], list[PerfumeResult]]:
         """Return (summary, designer_picks, middle_eastern_picks)."""
@@ -351,7 +351,7 @@ Pick the top picks in each section (aim for {top_k} across both). For each write
             return empty_msg, [], []
 
         try:
-            response = self._client.chat.completions.create(
+            response = await self._client.chat.completions.create(
                 model=MODEL,
                 messages=[
                     {"role": "system", "content": "You are Scentique, an expert AI perfume consultant."},

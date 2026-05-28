@@ -122,7 +122,7 @@ async def recommend(request: RecommendRequest):
     if agent is None:
         raise HTTPException(status_code=503, detail="Service starting up")
     try:
-        summary, designer, middle_eastern = agent.get_recommendations(
+        summary, designer, middle_eastern = await agent.get_recommendations(
             request.preferences, top_k=request.top_k
         )
         for r in designer:
@@ -145,7 +145,7 @@ async def chat(request: ChatRequest):
     if agent is None:
         raise HTTPException(status_code=503, detail="Service starting up")
     try:
-        reply, perfumes = agent.chat(request.message, request.history)
+        reply, perfumes = await agent.chat(request.message, request.history)
         for p in perfumes:
             _enrich_result(p)
         return ChatResponse(reply=reply, recommendations=perfumes)

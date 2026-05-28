@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 
+const HERO_IMG = '/images/ChatGPT Image May 28, 2026, 10_54_42 AM.png'
+
 const FEATURES = [
   {
     icon: '◈',
@@ -21,42 +23,67 @@ const FEATURES = [
 export default function Home() {
   return (
     <main className="min-h-screen">
-      {/* Hero */}
-      <section className="relative pt-32 pb-24 px-6 overflow-hidden">
-        {/* Background orbs */}
-        <div className="absolute top-20 left-1/4 w-96 h-96 bg-gold-500/5 rounded-full blur-3xl pointer-events-none" />
-        <div className="absolute top-40 right-1/4 w-64 h-64 bg-rose-perfume/5 rounded-full blur-3xl pointer-events-none" />
+      {/* Hero — teal scene */}
+      <section
+        className="relative overflow-hidden"
+        style={{ background: 'linear-gradient(120deg, #2d6e7e 0%, #3d8898 35%, #4f9aaa 100%)', minHeight: '92vh' }}
+      >
+        <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-stretch" style={{ minHeight: '92vh' }}>
 
-        <div className="max-w-4xl mx-auto text-center relative">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-gold-500/10 border border-gold-500/20 text-gold-400 text-xs font-medium mb-8 uppercase tracking-widest">
-            <span>✦</span> AI-Powered Fragrance Discovery
+          {/* Left: copy */}
+          <div className="flex-1 flex flex-col justify-center pt-24 pb-16 md:py-0 relative z-10">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/15 border border-white/25 text-white/80 text-xs font-medium mb-8 uppercase tracking-widest w-fit">
+              <span>✦</span> AI-Powered Fragrance Discovery
+            </div>
+
+            <h1 className="font-serif text-5xl md:text-6xl xl:text-7xl text-white mb-6 leading-tight">
+              Discover your<br />
+              <em className="italic font-normal text-white/90">perfect</em> scent
+            </h1>
+
+            <p className="text-white/70 text-base md:text-lg max-w-md mb-10 leading-relaxed">
+              Scentique uses AI to match fragrances to your personality, mood, and lifestyle — uniquely curated for you.
+            </p>
+
+            <div className="flex flex-col sm:flex-row items-start gap-4">
+              <Link
+                to="/discover"
+                className="bg-white text-stone-900 text-sm font-semibold px-7 py-3.5 rounded-full hover:bg-white/90 transition-all duration-300 shadow-lg"
+              >
+                Discover My Perfume
+              </Link>
+              <Link
+                to="/chat"
+                className="border border-white/50 text-white text-sm font-medium px-7 py-3.5 rounded-full hover:bg-white/15 transition-all duration-300"
+              >
+                Chat with AI
+              </Link>
+            </div>
           </div>
 
-          <h1 className="font-serif text-5xl md:text-7xl text-stone-100 mb-6 leading-tight">
-            Find Your
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-gold-400 to-gold-200">
-              Signature Scent
-            </span>
-          </h1>
-
-          <p className="text-stone-400 text-lg md:text-xl max-w-2xl mx-auto mb-12 leading-relaxed">
-            Scentique uses Retrieval-Augmented Generation, content-based ML filtering, and Claude AI
-            to recommend the perfect fragrance — uniquely matched to you.
-          </p>
-
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link to="/discover" className="btn-gold text-base">
-              Discover My Perfume
-            </Link>
-            <Link to="/chat" className="btn-outline text-base">
-              Chat with AI Consultant
-            </Link>
+          {/* Right: composite product shot — edges fade into hero bg */}
+          <div className="flex-none w-full md:w-[52%] relative overflow-hidden">
+            <img
+              src={HERO_IMG}
+              alt="Perfume bottle with lime and wood ingredients"
+              className="absolute inset-0 w-full h-full object-cover object-center select-none"
+              style={{
+                maskImage: 'linear-gradient(to right, transparent 0%, black 20%)',
+                WebkitMaskImage: 'linear-gradient(to right, transparent 0%, black 20%)',
+              }}
+            />
           </div>
         </div>
+
+        {/* Fade into dark sections below */}
+        <div
+          className="absolute bottom-0 left-0 right-0 h-28 pointer-events-none"
+          style={{ background: 'linear-gradient(to bottom, transparent, #0c0a09)' }}
+        />
       </section>
 
       {/* Features */}
-      <section className="py-20 px-6 border-t border-stone-800/60">
+      <section className="py-20 px-6 bg-stone-950">
         <div className="max-w-6xl mx-auto">
           <h2 className="font-serif text-3xl text-center text-stone-200 mb-4">
             How Scentique Works
@@ -77,8 +104,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA section */}
-      <section className="py-20 px-6">
+      {/* CTA */}
+      <section className="py-20 px-6 bg-stone-950">
         <div className="max-w-2xl mx-auto text-center card-glass p-12">
           <h2 className="font-serif text-3xl text-stone-100 mb-4">
             Ready to find your scent?
