@@ -7,7 +7,7 @@ import Explore from './pages/Explore'
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-stone-950">
+    <div className="min-h-screen bg-stone-50">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
